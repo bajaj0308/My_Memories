@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My_Memories</string>
+    <string name="Welcome">Welcome to some of the wonderful memories you have already lived...  </string>
+    <string name="relive">Its time to relive it....</string>
+    <string name="move_further">so to move forward, click on the start button</string>
+    <string name="soon">Itni bhi kya jaldi hai.....</string>
+    <string name="know_you_well">Now that we know you well, its time to know how well you know us.. "</string>
+    <string name="answer_questions">So in order to relive those memories , you need to answer some questions, and if the answers are correct, then only you will be able to go forward</string>
+    <string name="correct">Yeah!!!!!Answer is correct</string>
+    <string name="incorrect">Alas!!!! Try to guess the Answer correctly next Time :-)</string>
+    <string name="skip">Skip to Memories Category</string>
+</resources>
